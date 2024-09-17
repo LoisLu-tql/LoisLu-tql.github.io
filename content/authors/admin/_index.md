@@ -90,7 +90,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
-    date_end: ''
+    date_end: 2023-06-30
     summary: |2-
       Responsibilities include:
       - Migrated infrastructure to a new data center
