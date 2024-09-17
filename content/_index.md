@@ -41,6 +41,11 @@ sections:
       # Education or Experience section first?
       is_education_first: false
 
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
