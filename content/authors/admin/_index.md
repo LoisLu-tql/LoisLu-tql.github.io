@@ -77,11 +77,9 @@ work:
   - position: The Hong Kong University of Science and Technology
     company_name: Master of Science in Information Technology
     company_url: ''
-    company_logo: ''
+    company_logo: hero/academic-cap
     date_start: 2023-09-01
     date_end: 2025-01-31
-    color: white
-    icon: hero/academic-cap
     summary: |2-
 
   - position: Harbin Insititute of Technology, Shenzhen
@@ -90,7 +88,6 @@ work:
     company_logo: ''
     date_start: 2019-09-01
     date_end: 2023-06-30
-    icon: hero/academic-cap
     summary: |
       GPA: 88.54 / 100
       - Third Prize Scholarship (Year 2)
@@ -102,7 +99,6 @@ work:
     company_logo: ''
     date_start: 2021-09-01
     date_end: 2021-12-31
-    icon: hero/academic-cap
     summary: |
       Fully Funded
 
