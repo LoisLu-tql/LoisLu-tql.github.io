@@ -81,10 +81,7 @@ work:
     date_start: 2023-09-01
     date_end: 2025-01-31
     summary: |2-
-      Courses:
-      - Blockchain and Smart Contracts
-      - Data Mining and Knowledge Discovery
-      - Advanced Algorithms
+    
   - position: Harbin Insititute of Technology, Shenzhen
     company_name: Bachelor of Engineering in Computer Science and Technology
     company_url: ''
@@ -93,7 +90,6 @@ work:
     date_end: 2023-06-30
     summary: |
       GPA: 88.54 / 100
-      Honors:
       - Third Prize Scholarship (Year 2)
       - First Prize Scholarship (Year 3)
       - Huawei Intelligent Base Scholarship (2023)
