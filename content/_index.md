@@ -46,6 +46,13 @@ sections:
       title: Languages
       username: admin
 
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: true
+
   # - block: markdown
   #   content:
   #     title: '📚 My Research'
