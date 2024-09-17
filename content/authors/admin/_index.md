@@ -80,14 +80,16 @@ work:
     company_logo: ''
     date_start: 2023-09-01
     date_end: 2025-01-31
+    icon: hero/academic-cap
     summary: |2-
-    
+
   - position: Harbin Insititute of Technology, Shenzhen
     company_name: Bachelor of Engineering in Computer Science and Technology
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
     date_end: 2023-06-30
+    icon: hero/academic-cap
     summary: |
       GPA: 88.54 / 100
       - Third Prize Scholarship (Year 2)
@@ -99,6 +101,7 @@ work:
     company_logo: ''
     date_start: 2021-09-01
     date_end: 2021-12-31
+    icon: hero/academic-cap
     summary: |
       Fully Funded
 
