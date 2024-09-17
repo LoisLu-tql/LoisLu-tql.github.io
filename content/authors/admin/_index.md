@@ -74,8 +74,8 @@ interests:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Master of Science in Information Technology
-    company_name: The Hong Kong University of Science and Technology
+  - position: The Hong Kong University of Science and Technology
+    company_name: Master of Science in Information Technology
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
@@ -85,8 +85,8 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Bachelor of Engineering in Computer Science and Technology
-    company_name: Harbin Insititute of Technology, Shenzhen
+  - position: Harbin Insititute of Technology, Shenzhen
+    company_name: Bachelor of Engineering in Computer Science and Technology
     company_url: ''
     company_logo: ''
     date_start: 2019-09-01
