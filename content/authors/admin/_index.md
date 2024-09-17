@@ -80,6 +80,7 @@ work:
     company_logo: ''
     date_start: 2023-09-01
     date_end: 2025-01-31
+    color: white
     icon: hero/academic-cap
     summary: |2-
 
