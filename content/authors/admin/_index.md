@@ -50,52 +50,52 @@ interests:
   - Software Engineering
   - Large Language Models
 
-work:
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-# work:
-#   - position: Director of Cloud Infrastructure
-#     company_name: GenCoin
-#     company_url: ''
-#     company_logo: ''
-#     date_start: 2021-01-01
-#     date_end: ''
-#     summary: |2-
-#       Responsibilities include:
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-#   - position: Backend Software Engineer
-#     company_name: X
-#     company_url: ''
-#     company_logo: ''
+# education:
+#   - area: MEng Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
 #     date_start: 2016-01-01
 #     date_end: 2020-12-31
 #     summary: |
-#       Responsibilities include:
-#       - Migrated infrastructure to a new data center
+#       GPA: 3.8/4.0
+
+#       Courses included:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#   - area: BSc Artificial Intelligence
+#     institution: Massachusetts Institute of Technology
+#     date_start: 2016-01-01
+#     date_end: 2020-12-31
+#     summary: |
+#       GPA: 3.4/4.0
+      
+#       Courses included:
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+#       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+work:
+  - position: Master of Science in Information Technology
+    company_name: The Hong Kong University of Science and Technology
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-9
+    date_end: 2025-1
+    summary: |2-
+      Responsibilities include:
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - position: Bachelor of Engineering in Computer Science and Technology
+    company_name: Harbin Insititute of Technology, Shenzhen
+    company_url: ''
+    company_logo: ''
+    date_start: 2019-9
+    date_end: 2023-6
+    summary: |
+      Responsibilities include:
+      - Migrated infrastructure to a new data center
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
