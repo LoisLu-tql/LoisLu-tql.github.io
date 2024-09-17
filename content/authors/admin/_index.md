@@ -79,7 +79,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
-    date_end: ''
+    date_end: 2025-01-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -91,7 +91,7 @@ work:
     company_logo: ''
     date_start: 2019-09-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
