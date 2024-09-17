@@ -105,27 +105,24 @@ skills:
       - name: Java
         description: ''
         percent: 100
-        icon: code-bracket
+        icon: java
       - name: Python
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Soccer
+      - name: Soccer ⚽️
         description: ''
         percent: 100
-        icon: ⚽️
-      - name: Cats
+      - name: Cats 🐱
         description: ''
         percent: 100
-        icon: cat
-      - name: Gym
+      - name: Gym 🦾
         description: ''
         percent: 100
-        icon: gym
 
 languages:
   - name: Chinese
