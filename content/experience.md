@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Experience'
 date: 2023-10-24
 type: landing
@@ -10,7 +10,7 @@ design:
 
 # Page sections
 sections:
-  - block: resume-
+  - block: resume-experience
     content:
       username: admin
     design:
@@ -32,4 +32,4 @@ sections:
     content:
       title: Languages
       username: admin
----
+--- -->
