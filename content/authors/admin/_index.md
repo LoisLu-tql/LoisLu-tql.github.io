@@ -11,7 +11,7 @@ title: LU Jiaqi (Lois)
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 👩🏻‍💻
 
 # Is this the primary user of the site?
 superuser: true
@@ -105,11 +105,11 @@ skills:
       - name: Java
         description: ''
         percent: 100
-        icon: java
+        icon: devicon/java
       - name: Python
         description: ''
         percent: 80
-        icon: python
+        icon: devicon/python
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
