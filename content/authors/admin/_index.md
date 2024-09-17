@@ -81,10 +81,10 @@ work:
     date_start: 2023-09-01
     date_end: 2025-01-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Courses:
+      - Blockchain and Smart Contracts
+      - Data Mining and Knowledge Discovery
+      - Advanced Algorithms
   - position: Harbin Insititute of Technology, Shenzhen
     company_name: Bachelor of Engineering in Computer Science and Technology
     company_url: ''
@@ -92,10 +92,19 @@ work:
     date_start: 2019-09-01
     date_end: 2023-06-30
     summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 88.54 / 100
+      Honors:
+      - Third Prize Scholarship (Year 2)
+      - First Prize Scholarship (Year 3)
+      - Huawei Intelligent Base Scholarship (2023)
+  - position: City University of Hong Kong
+    company_name: Exchange Student in Computer Science
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-09-01
+    date_end: 2021-12-31
+    summary: |
+      Fully Funded
 
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
