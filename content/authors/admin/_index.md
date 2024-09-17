@@ -117,7 +117,7 @@ skills:
       - name: Soccer
         description: ''
         percent: 100
-        icon: soccer
+        icon: futbol
       - name: Cats
         description: ''
         percent: 100
