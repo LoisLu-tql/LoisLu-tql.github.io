@@ -50,7 +50,7 @@ interests:
   - Software Engineering
   - Large Language Models
 
-school:
+work:
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01

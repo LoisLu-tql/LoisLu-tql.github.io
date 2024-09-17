@@ -31,7 +31,7 @@ sections:
           position: center
           parallax: false
 
-  - block: school
+  - block: experience
     content:
       username: admin
     design:
