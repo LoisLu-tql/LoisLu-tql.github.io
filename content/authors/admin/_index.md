@@ -78,8 +78,8 @@ work:
     company_name: The Hong Kong University of Science and Technology
     company_url: ''
     company_logo: ''
-    date_start: 2023-9-1
-    date_end: 2025-1-31
+    date_start: 2023-09-01
+    date_end: 2025-01-31
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -89,8 +89,8 @@ work:
     company_name: Harbin Insititute of Technology, Shenzhen
     company_url: ''
     company_logo: ''
-    date_start: 2019-9-1
-    date_end: 2023-6-31
+    date_start: 2019-09-01
+    date_end: 2023-06-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
