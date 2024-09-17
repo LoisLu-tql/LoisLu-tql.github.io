@@ -79,7 +79,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2023-09-01
-    date_end: 2025-01-31
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
