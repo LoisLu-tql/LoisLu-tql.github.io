@@ -66,7 +66,7 @@ interests:
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 #       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: The Hong Kong University of Science and Technology
+  - position: 🇭🇰 The Hong Kong University of Science and Technology 
     company_name: Master of Science in Information Technology
     company_url: ''
     company_logo: ''
@@ -74,7 +74,7 @@ work:
     date_end: 2025-01-31
     summary: |2-
 
-  - position: Harbin Insititute of Technology, Shenzhen
+  - position: 🇨🇳 Harbin Insititute of Technology, Shenzhen
     company_name: Bachelor of Engineering in Computer Science and Technology
     company_url: ''
     company_logo: ''
@@ -85,7 +85,7 @@ work:
       - Third Prize Scholarship (Year 2)
       - First Prize Scholarship (Year 3)
       - Huawei Intelligent Base Scholarship (2023)
-  - position: City University of Hong Kong
+  - position: 🇭🇰 City University of Hong Kong
     company_name: Exchange Student in Computer Science
     company_url: ''
     company_logo: ''
@@ -156,4 +156,4 @@ languages:
 
 ## About Me
 
-Hi👋! I am Jiaqi LU (Lois), born in 2002👶🏻. I am currently a student pursuing a SDE job. I obtained my BEng degree in CS in HITsz and MSc degree in IT in HKUST📝. I am also passionate about soccer, as I was a registered soccer player in the HKFA and played for TPFC💚. 
+Hi👋! I am Jiaqi LU (Lois), born in 2002👶🏻. I am currently a student pursuing a SDE job. I obtained my BEng degree in CS in HITsz and MSc degree in IT in HKUST📝. I am also passionate about soccer, as I was a registered soccer player in the HKFA and played in the 1st division football league for TPFC💚. 
