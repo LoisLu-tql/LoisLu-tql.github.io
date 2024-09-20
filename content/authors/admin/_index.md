@@ -99,19 +99,18 @@ work:
 skills:
   - name: 🥇
     items:
-      - name: Soccer ⚽️
-      - name: Gym 💪🏻
+      - name: ⚽️ SOCCER
+      - name: 💪🏻 GYM
   - name: 🥈
     items:
-      - name: Snowboarding 🏂
-      - name: Games 🎮
+      - name: 🏂 SNOWBOARDING
+      - name: 🎮 GAMES
   - name: 🥉
     items:
-      - name: Zombies 🧟
-      - name: Hamster 🐹
+      - name: 🧟 ZOMBIES
+      - name: 🐹 HAMSTER
 
 languages:
-  - color: white
   - name: Chinese
     percent: 100
   - name: Java
@@ -157,4 +156,4 @@ languages:
 
 ## About Me
 
-I am just a student..
+Hi👋! I am Jiaqi LU (Lois), born in 2002👶🏻. I am currently a student pursuing a SDE job. I obtained my BEng degree in CS in HITsz and MSc degree in IT in HKUST📝. I am also passionate about soccer, as I was a registered soccer player in the HKFA and played for TPFC💚. 
