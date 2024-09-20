@@ -31,20 +31,12 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:loislu0129@outlook.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/lois__lu/
   - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
-  - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://github.com/LoisLu-tql
 
 interests:
   - Software Engineering
@@ -77,7 +69,7 @@ work:
   - position: The Hong Kong University of Science and Technology
     company_name: Master of Science in Information Technology
     company_url: ''
-    company_logo: hero/academic-cap
+    company_logo: ''
     date_start: 2023-09-01
     date_end: 2025-01-31
     summary: |2-
@@ -105,34 +97,28 @@ work:
 # # Skills
 # # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
-    items:
-      - name: Java
-        description: ''
-        percent: 100
-        icon: devicon/java
-      - name: Python
-        description: ''
-        percent: 80
-        icon: devicon/python
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+  - name: 🥇
     items:
       - name: Soccer ⚽️
-        description: ''
-        percent: 100
-      - name: Cats 🐱
-        description: ''
-        percent: 100
-      - name: Gym 🦾
-        description: ''
-        percent: 100
+      - name: Gym 💪🏻
+  - name: 🥈
+    items:
+      - name: Snowboarding 🏂
+      - name: Games 🎮
+  - name: 🥉
+    items:
+      - name: Zombies 🧟
+      - name: Hamster 🐹
 
 languages:
+  - color: white
   - name: Chinese
     percent: 100
+  - name: Java
+    percent: 100
   - name: English
+    percent: 90
+  - name: Python
     percent: 90
   - name: Cantonese
     percent: 70
