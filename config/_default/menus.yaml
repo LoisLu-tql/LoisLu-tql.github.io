@@ -20,11 +20,15 @@ main:
     identifier: blog
     url: post/
     weight: 13
+  - name: Tags
+    identifier: tags
+    url: tags/
+    weight: 14
   - name: Academic
-    parent: blog
+    parent: tags
     url: tags/academic/
     weight: 20
   - name: Markdown
-    parent: blog
+    parent: tags
     url: tags/markdown/
     weight: 20
