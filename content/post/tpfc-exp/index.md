@@ -23,3 +23,5 @@ I would never think that I could train in a professional club one year later.
 
 ## 🎁 Gifted, Lucky or Persistent?
 After getting into HKUST, I did a brave thing(at least for me) again: I private messaged the school's soccer team. Then, I trained in the HKUST women's football team. 
+
+--updating...
