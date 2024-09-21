@@ -12,8 +12,8 @@ authors:
   - admin
 
 tags:
-  - Academic
-  - Markdown
+  - Moment
+  - Campus
 ---
 
 Heeeello my university🙋🏻‍♀️!

@@ -25,11 +25,15 @@ main:
     identifier: tags
     url: tags/
     weight: 14
-  - name: Academic
+  - name: Moment
     parent: tags
-    url: tags/academic/
+    url: tags/moment/
     weight: 20
-  - name: Markdown
+  - name: Campus
     parent: tags
-    url: tags/markdown/
+    url: tags/campus/
+    weight: 20
+  - name: Sport
+    parent: tags
+    url: tags/sport/
     weight: 20
