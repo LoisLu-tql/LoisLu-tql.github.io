@@ -1,7 +1,7 @@
 ---
 title: 👀 My Exchange Term in CityU Started!
 summary: Although HK is super close to Shenzhen, the Covid-19 made this journey really hard...
-date: 2021-8-14
+date: 2021-08-14
 authors:
   - admin
 tags:
