@@ -23,8 +23,8 @@ main:
   - name: Academic
     parent: blog
     url: tags/academic/
-    weight: 10
+    weight: 20
   - name: Markdown
     parent: blog
     url: tags/markdown/
-    weight: 10
+    weight: 20
