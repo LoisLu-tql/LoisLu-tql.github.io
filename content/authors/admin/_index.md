@@ -37,6 +37,8 @@ profiles:
     url: https://www.instagram.com/lois__lu/
   - icon: brands/github
     url: https://github.com/LoisLu-tql
+  - icon: custom/leetcode
+    url: https://leetcode.cn/u/lew-11/
 
 interests:
   - Software Engineering
@@ -107,7 +109,7 @@ skills:
       - name: 🎮 GAMES
   - name: 🥉
     items:
-      - name: 🧟 ZOMBIES
+      - name: 🧟 ZOMBIE
       - name: 🐹 HAMSTER
 
 languages:
