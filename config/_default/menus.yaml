@@ -37,3 +37,7 @@ main:
     parent: tags
     url: tags/sport/
     weight: 20
+  - name: Long Talks
+    parent: tags
+    url: tags/long-talks/
+    weight: 20

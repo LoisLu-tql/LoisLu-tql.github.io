@@ -119,7 +119,7 @@ sections:
       filters:
         author: ""
         category: ""
-        tag: ""
+        tag: "moment"
         exclude_featured: false
         exclude_future: false
         exclude_past: false
