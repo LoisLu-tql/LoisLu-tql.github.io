@@ -13,10 +13,10 @@ main:
   # - name: Talks
   #   url: /#talks
   #   weight: 12
-  - name: News
+  - name: News    |
     url: /#news
-    weight: 12
+    weight: 11
  
-  # - name: Projects
-  #   url: projects/
-  #   weight: 30
+  - name: Blog
+    url: post/
+    weight: 12
