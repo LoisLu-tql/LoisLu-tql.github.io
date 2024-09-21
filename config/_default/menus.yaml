@@ -16,14 +16,18 @@ main:
   - name: News
     url: /#news
     weight: 12
-  - name: Blog
-    identifier: blog
-    url: post/
+  - name: \|
+    url: /
     weight: 13
+  
+  - name: Blog
+    url: post/
+    weight: 14
+
   - name: Tags
     identifier: tags
     url: tags/
-    weight: 14
+    weight: 15
   - name: Academic
     parent: tags
     url: tags/academic/
