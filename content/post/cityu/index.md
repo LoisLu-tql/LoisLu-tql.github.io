@@ -8,7 +8,7 @@ tags:
   - Academic
   - Markdown
 image:
-  caption: 'First selfie in HK'
+  caption: 'Photo in CityU'
 ---
 
 It was really hard to isolate for 2 weeks😷. However, heading to a new place always makes people excited.
