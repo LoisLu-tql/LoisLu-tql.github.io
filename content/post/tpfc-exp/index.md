@@ -17,8 +17,11 @@ Looking back to my one year experience in a professional soccer club, it was rea
 
 ## 😲 Actually New to Football
 I got interested in football since I was a child, as my dad is an Arsenal fan. However, I was born in a small city and no girl played football around me. I tried to play with boys, while they either ignored me or made fun of me. Also, girls are always told to be quiet and focus on studying. I had to let go, but I still watched games sometimes.
+
 After getting into the university(many Chinese students will finally take a breathe😂), I immediately chose the football class. But boys just asked me whether I had no choices for other PE classes. They ignored me, or stared at me when playing(as they did not want to defend me). HIT always has much more boys than girls, and I am not a social person, I stopped again🤦🏻‍♀️. But I learnt some basic passing and dribbling skills.
+
 In year 4, I got less work to do and started working out. I saw a girl playing soccer on the pitch, and I did a brave thing(at least for me): I chatted with her. Finally I found girls playing soccer, also there were only around 8 people each time. We did not have coaches, only some kind boys taught us🙏🏻.
+
 I would never think that I could train in a professional club one year later.
 
 ## 🎁 Gifted, Lucky or Persistent?
