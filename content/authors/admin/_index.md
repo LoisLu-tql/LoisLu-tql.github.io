@@ -158,4 +158,4 @@ languages:
 
 ## About Me
 
-Hi👋! I am Jiaqi LU (Lois), born in 2002👶🏻. I am currently a student pursuing a SDE job. I obtained my BEng degree in CS in HITsz and MSc degree in IT in HKUST📝. I am also passionate about soccer, as I was a registered soccer player in the HKFA and played in the 1st division football league for TPFC💚. 
+Hi👋! I am Jiaqi LU (Lois), born in 2002👶🏻. I am currently a student pursuing a SDE job. I obtained my BEng degree in CS in HITsz and MSc degree in IT in HKUST📝. I am also passionate about soccer, as I was a registered soccer player in the HKFA and played in the 1st division football league for TPFC. 
